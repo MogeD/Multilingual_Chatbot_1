@@ -80,5 +80,10 @@ Currently, the chatbot supports:
 
 - Hindi (hi)
 - Telugu (te)
+- Yoruba (yo)
+- Igbo (ig)
+- Hausa (ha)
+- French (fr)
+- Spanish (sp)
 
 To add support for additional languages, modify the `RESPONSES` dictionary in `backend/main.py` and add the corresponding language option in the frontend select menu.
